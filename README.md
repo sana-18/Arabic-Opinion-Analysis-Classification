@@ -33,8 +33,8 @@ The project focuses on **analyzing and detecting opinions expressed in Arabic te
 ```
 Arabic-Opinion-Analysis&Detection/
 │
-├── Arabic-Opinion-Analysis&Detection.ipynb   # Main notebook with steps, code, and explanations
-│
+├── Arabic-Opinion-Analysis.ipynb             # Main notebook with steps, code, and explanations
+├── Arabic_Opinion_Detection.ipynb            # Sub-notebook  for MLops and detection 
 ├── comments_output.txt                       # Cleaned scraped comments
 ├── annotations_1.txt                         # Annotator 1 labels
 ├── annotations_2.txt                         # Annotator 2 labels
