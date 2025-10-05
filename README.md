@@ -1,4 +1,4 @@
-# Arabic Opinion Analysis & Detection 
+# Arabic Opinion Analysis & Classification
 
 This repository contains the code, datasets, and resources for a project developed as part of the **AI Project Creation Module** at the **Higher School of Technology of Meknès**.
 
